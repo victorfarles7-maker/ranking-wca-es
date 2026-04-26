@@ -41,7 +41,7 @@
     { "nome": "Daniel Macedo Araújo dos Santos", "ouro": 0, "prata": 2, "bronze": 1 },
     { "nome": "Rodrigo Araujo do Carmo", "ouro": 0, "prata": 1, "bronze": 1 },
     { "nome": "Lucas Rossiman", "ouro": 0, "prata": 1, "bronze": 0 },
-    { "nome": "Emanuele Trancoso", "ouro": 0, "prata": 2, "bronze": 0 },
+    { "nome": "Emanuele Trancoso", "ouro": 0, "prata": 2, "bronze": 0 }
   ],
   "campeonatos": [
     { "nome": "Josué Dell'Orto Gottardi", "ouro": 5, "prata": 2, "bronze": 0 },
