@@ -1,7 +1,6 @@
 {
   "capixabas": [
-    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 30, "prata": 31, "bronze": 21 },
-    { "nome": "Maria Souza", "ouro": 4, "prata": 4, "bronze": 1 }
+    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 30, "prata": 31, "bronze": 21 }
   ],
   "campeonatos": [
     { "nome": "Josué Dell'Orto Gottardi", "ouro": 5, "prata": 2, "bronze": 0 },
