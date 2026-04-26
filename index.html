@@ -1,0 +1,21 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Ranking WCA ES</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🏆 Rankings WCA - Espírito Santo</h1>
+
+  <div class="tabs">
+    <button onclick="mostrarRanking('capixabas')">Capixabas com mais Medalhas</button>
+    <button onclick="mostrarRanking('campeonatos')">Coleção de Medalhas nos Campeonatos ES</button>
+  </div>
+
+  <input type="text" id="busca" placeholder="Buscar nome..." onkeyup="filtrar()">
+
+  <ul id="ranking"></ul>
+
+  <script src="app.js"></script>
+</body>
+</html>
