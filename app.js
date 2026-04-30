@@ -35,7 +35,10 @@ function renderizar(listaDados, tipo) {
       const bloco = document.createElement("div");
 
       bloco.innerHTML = `
-        <h2>🧩 Cubo ${evento}</h2>
+        <h2 class="evento-titulo">
+  <span class="cubing-icon event-${evento}"></span>
+  ${traduzirEvento(evento)}
+</h2>
         <table>
           <thead>
             <tr>
@@ -85,4 +88,20 @@ function filtrar() {
   );
 
   renderizar(filtrados);
+  function traduzirEvento(codigo) {
+  const nomes = {
+    "333": "3x3x3",
+    "222": "2x2x2",
+    "444": "4x4x4",
+    "555": "5x5x5",
+    "333oh": "3x3x3 OH",
+    "pyram": "Pyraminx",
+    "skewb": "Skewb",
+    "minx": "Megaminx",
+    "sq1": "Square-1",
+    "clock": "Clock"
+  };
+
+  return nomes[codigo] || codigo;
+}
 }
