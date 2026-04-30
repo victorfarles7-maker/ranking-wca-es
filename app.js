@@ -30,7 +30,18 @@ function renderizar(listaDados) {
 
   listaDados.forEach((p, i) => {
     const item = document.createElement("li");
-    item.textContent = `${i + 1}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
+
+    // Se for recorde
+    if (p.evento) {
+      item.innerHTML = `
+        <strong>${p.evento} (${p.tipo})</strong><br>
+        🥇 ${p.resultado} — ${p.nome}
+      `;
+    } else {
+      // ranking normal
+      item.textContent = `${i + 1}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
+    }
+
     lista.appendChild(item);
   });
 }
