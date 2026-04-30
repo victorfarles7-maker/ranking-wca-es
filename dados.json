@@ -113,5 +113,25 @@
     { "nome": "Gabriel Assis Rios", "ouro": 0, "prata": 0, "bronze": 1 },
     { "nome": "Matheus Casassa", "ouro": 0, "prata": 1, "bronze": 1 }
 
-  ]
+  ],
+  "recordes": [
+  {
+    "evento": "3x3x3",
+    "tipo": "Single",
+    "resultado": "5.32",
+    "nome": "Fulano de Tal"
+  },
+  {
+    "evento": "3x3x3",
+    "tipo": "Average",
+    "resultado": "6.10",
+    "nome": "Ciclano"
+  },
+  {
+    "evento": "2x2x2",
+    "tipo": "Single",
+    "resultado": "1.20",
+    "nome": "Outro Nome"
+  }
+]
 }
