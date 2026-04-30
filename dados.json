@@ -114,6 +114,7 @@
     { "nome": "Matheus Casassa", "ouro": 0, "prata": 1, "bronze": 1 }
 
   ],
+  
 "recordes": {
   "333": [
     {
@@ -141,5 +142,4 @@
       "resolucoes": ["1.50", "1.30", "1.20", "1.40", "1.60"]
     }
   ]
-}
 }
