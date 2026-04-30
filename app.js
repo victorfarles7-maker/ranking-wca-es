@@ -9,10 +9,11 @@ fetch("dados.json")
   });
 
 function mostrarRanking(tipo) {
-  rankingAtual = [...dados[tipo]];
+  rankingAtual = dados[tipo];
 
-  // Só ordena se for ranking de medalhas
   if (tipo !== "recordes") {
+    rankingAtual = [...rankingAtual];
+
     rankingAtual.sort((a, b) => {
       if (b.ouro !== a.ouro) return b.ouro - a.ouro;
       if (b.prata !== a.prata) return b.prata - a.prata;
@@ -21,27 +22,57 @@ function mostrarRanking(tipo) {
     });
   }
 
-  renderizar(rankingAtual);
+  renderizar(rankingAtual, tipo);
 }
 
-function renderizar(listaDados) {
-  const lista = document.getElementById("ranking");
-  lista.innerHTML = "";
+function renderizar(listaDados, tipo) {
+  const container = document.getElementById("ranking");
+  container.innerHTML = "";
+
+  // 👉 Se for recordes (formato novo)
+  if (tipo === "recordes") {
+    Object.keys(listaDados).forEach(evento => {
+      const bloco = document.createElement("div");
+
+      bloco.innerHTML = `
+        <h2>🧩 Cubo ${evento}</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Tipo</th>
+              <th>Nome</th>
+              <th>Resultado</th>
+              <th>Competição</th>
+              <th>Resoluções</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${listaDados[evento].map(r => `
+              <tr>
+                <td>${r.tipo}</td>
+                <td>${r.nome}</td>
+                <td>${r.resultado}</td>
+                <td>${r.competicao}</td>
+                <td>${r.resolucoes.join(" ")}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+
+      container.appendChild(bloco);
+    });
+
+    return;
+  }
+
+  // 👉 ranking normal (medalhas)
+  container.innerHTML = "<ul></ul>";
+  const lista = container.querySelector("ul");
 
   listaDados.forEach((p, i) => {
     const item = document.createElement("li");
-
-    // Se for recorde
-    if (p.evento) {
-      item.innerHTML = `
-        <strong>${p.evento} (${p.tipo})</strong><br>
-        🥇 ${p.resultado} — ${p.nome}
-      `;
-    } else {
-      // ranking normal
-      item.textContent = `${i + 1}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
-    }
-
+    item.textContent = `${i + 1}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
     lista.appendChild(item);
   });
 }
