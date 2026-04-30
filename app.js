@@ -36,7 +36,7 @@ function renderizar(listaDados, tipo) {
 
       bloco.innerHTML = `
         <h2 class="evento-titulo">
-  <span class="cubing-icon event-${evento}"></span>
+ <img src="icons/${evento}.svg" class="icone-evento">
   ${traduzirEvento(evento)}
 </h2>
         <table>
