@@ -11,15 +11,15 @@ fetch("dados.json")
 function mostrarRanking(tipo) {
   rankingAtual = [...dados[tipo]];
 
-  // Ordenação completa
-  rankingAtual.sort((a, b) => {
-    if (b.ouro !== a.ouro) return b.ouro - a.ouro;
-    if (b.prata !== a.prata) return b.prata - a.prata;
-    if (b.bronze !== a.bronze) return b.bronze - a.bronze;
-
-    // empate total → ordem alfabética
-    return a.nome.localeCompare(b.nome);
-  });
+  // Só ordena se for ranking de medalhas
+  if (tipo !== "recordes") {
+    rankingAtual.sort((a, b) => {
+      if (b.ouro !== a.ouro) return b.ouro - a.ouro;
+      if (b.prata !== a.prata) return b.prata - a.prata;
+      if (b.bronze !== a.bronze) return b.bronze - a.bronze;
+      return a.nome.localeCompare(b.nome);
+    });
+  }
 
   renderizar(rankingAtual);
 }
