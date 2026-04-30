@@ -88,7 +88,9 @@ function filtrar() {
   );
 
   renderizar(filtrados);
-  function traduzirEvento(codigo) {
+}
+
+ function traduzirEvento(codigo) {
   const nomes = {
     "333": "3x3x3",
     "222": "2x2x2",
@@ -103,5 +105,4 @@ function filtrar() {
   };
 
   return nomes[codigo] || codigo;
-}
 }
