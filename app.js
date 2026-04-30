@@ -87,7 +87,7 @@ function filtrar() {
     p.nome.toLowerCase().includes(termo)
   );
 
-  renderizar(filtrados);
+  renderizar(filtrados, "capixabas");;
 }
 
  function traduzirEvento(codigo) {
