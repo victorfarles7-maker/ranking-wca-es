@@ -138,6 +138,57 @@
       "nome": "Rafael Hiroshi Eguchi Neves",
       "competicao": "III Samuel Asafe Vila Velha 2026",
       "resolucoes": ["2.44","1.82","(1.10)","2.17","(10.44)"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "2.14",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "III Samuel Asafe Vila Velha 2026",
+      "resolucoes": ["2.44","1.82","(1.10)","2.17","(10.44)"]
+    }
+  ],
+
+   "444": [
+    {
+      "tipo": "Single",
+      "resultado": "30.99",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": " II Capixaba Challenge 2025",
+      "resolucoes": ["39.88","48.22","(DNF)","(30.99)","44.94"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "38.00",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "III Samuel Asafe Vila Velha 2026",
+      "resolucoes": ["(35.31)","35.96","36.94","(42.66)","41.10"]
+    }
+  ],
+
+   "555": [
+    {
+      "tipo": "Single",
+      "resultado": "1:00.71",
+      "nome": "Maysa Santos Cozer",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["1:12.54","1:05.29","(1:00.71)","1:04.18","(1:14.86)"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "1:07.34",
+      "nome": "Maysa Santos Cozer",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["1:12.54","1:05.29","(1:00.71)","1:04.18","(1:14.86)"]
+    }
+  ],
+
+   "666": [
+    {
+      "tipo": "Single",
+      "resultado": "2:17.37",
+      "nome": "	Rafael Hiroshi Eguchi Neves",
+      "competicao": "III Samuel Asafe Vila Velha 2026",
+      "resolucoes": []
     }
   ]
 }
