@@ -96,12 +96,19 @@ function filtrar() {
     "222": "2x2x2",
     "444": "4x4x4",
     "555": "5x5x5",
+    "666":"6x6x6",
+    "777":"7x7x7",
+    "3bld":"3x3x3 Vendado",
+    "fm":"3x3x3 em Menos Movimentos",
     "333oh": "3x3x3 OH",
-    "pyram": "Pyraminx",
+    "pyra": "Pyraminx",
     "skewb": "Skewb",
-    "minx": "Megaminx",
+    "mega": "Megaminx",
     "sq1": "Square-1",
-    "clock": "Clock"
+    "clock": "Clock",
+    "4bld":"4x4x4 Vendado",
+    "5bld":"5x5x5 Vendado",
+    "mbld":"3x3x3 Múltiplos Cubos Vendado"
   };
 
   return nomes[codigo] || codigo;
