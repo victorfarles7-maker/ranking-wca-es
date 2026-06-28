@@ -99,7 +99,7 @@ function filtrar() {
     "666":"6x6x6",
     "777":"7x7x7",
     "3bld":"3x3x3 Vendado",
-    "fm":"3x3x3 em Menos Movimentos",
+    "333fm":"3x3x3 em Menos Movimentos",
     "333oh": "3x3x3 OH",
     "pyra": "Pyraminx",
     "skewb": "Skewb",
