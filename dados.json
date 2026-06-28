@@ -16,7 +16,7 @@
     { "nome": "Pedro Henrique de Jesus Silva", "ouro": 8, "prata": 11, "bronze": 7 },
     { "nome": "Gustavo Dutra Santolin", "ouro": 0, "prata": 0, "bronze": 2 },
     { "nome": "Arthur Corrêa Lube Santos", "ouro": 0, "prata": 1, "bronze": 3 },
-    { "nome": "Arthur Braum Coelho Freitas", "ouro": 14, "prata": 15, "bronze": 18 },
+    { "nome": "Arthur Braum Coelho Freitas", "ouro": 16, "prata": 16, "bronze": 18 },
     { "nome": "Jonathan Pereira Vieira", "ouro": 5, "prata": 1, "bronze": 0 },
     { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 30, "prata": 31, "bronze": 21 },
     { "nome": "Aldomario Ramos Netto", "ouro": 8, "prata": 5, "bronze": 3 },
@@ -185,10 +185,34 @@
    "666": [
     {
       "tipo": "Single",
-      "resultado": "2:17.37",
+      "resultado": "2:17.16",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "NC ao Cubo 2026",
+      "resolucoes": ["2:29.06","2:17.16","2:40.85"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "2:28.91",
       "nome": "Rafael Hiroshi Eguchi Neves",
       "competicao": "III Samuel Asafe Vila Velha 2026",
-      "resolucoes": ["k","i","d","j","p"]
+      "resolucoes": ["2:39.90","2:17.37","2:23.72"]
+    }
+  ],
+
+  "fm":  [
+    {
+      "tipo": "Single",
+      "resultado": "22",
+      "nome": "Victor Farles Cavalcante Alves",
+      "competicao": "FMC Lusófono 2025",
+      "resolucoes": ["DNF","30","22"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "34.00",
+      "nome": "Victor Farles Cavalcante Alves",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["44","28","30"]
     }
   ]
 }
