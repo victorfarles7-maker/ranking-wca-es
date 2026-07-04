@@ -10,6 +10,13 @@ h1 {
   text-align: center;
 }
 
+.wca-logo {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
 .tabs {
   display: flex;
   gap: 10px;
