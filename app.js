@@ -12,6 +12,10 @@ fetch("dados.json")
 
 
 function mostrarRanking(tipo) {
+  console.log("TIPO:", tipo);
+  console.log("DADOS:", dados);
+  console.log("COMPETIÇÕES:", dados.competicoesES);
+
   tipoAtual = tipo;
   rankingAtual = dados[tipo];
 
