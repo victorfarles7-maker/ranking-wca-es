@@ -343,6 +343,18 @@
   
 },
   "competicoesES": [
+        {
+    "nome": "Marista de Cubo Mágico 2016",
+    "data": "18 - 19 nov, 2016",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/Marista2016"
+  },
+    {
+    "nome": "Torneio Mestre Álvaro de Cubo Mágico 2016",
+    "data": "19 - 20 mar, 2016",
+    "cidade": "Serra",
+    "link": "https://www.worldcubeassociation.org/competitions/MestreAlvaro2016"
+  },
   {
     "nome": "Campeonato Marista de Cubo Mágico 2015",
     "data": "18 - 19 set, 2015",
