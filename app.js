@@ -1,6 +1,7 @@
 let dados = {};
 let rankingAtual = [];
 
+
 fetch("dados.json")
   .then(res => res.json())
   .then(data => {
@@ -21,6 +22,7 @@ function mostrarRanking(tipo) {
       return a.nome.localeCompare(b.nome);
     });
   }
+mostrarRanking('competicoesES')
 
   renderizar(rankingAtual, tipo);
 }
@@ -109,9 +111,9 @@ function filtrar() {
     "4bld":"4x4x4 Vendado",
     "5bld":"5x5x5 Vendado",
     "mbld":"3x3x3 Múltiplos Cubos Vendado"
-
-    mostrarRanking('competicoesES')
   };
 
   return nomes[codigo] || codigo;
 }
+
+
