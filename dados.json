@@ -338,7 +338,16 @@
       "competicao": "III Capixaba Challenge 2026",
       "resolucoes": ["4.67","(10.84)","6.61","5.89","(4.46)"]
     }
-  ]
+  ],
+
+  "competicoesES": [
+  {
+    "nome": "Campeonato Marista de Cubo Mágico 2015",
+    "data": "18 - 19 set, 2015",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/CampeonatoMarista2015"
+  }
+]
   
 }
 }
