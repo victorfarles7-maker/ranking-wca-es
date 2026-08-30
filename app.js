@@ -109,6 +109,8 @@ function filtrar() {
     "4bld":"4x4x4 Vendado",
     "5bld":"5x5x5 Vendado",
     "mbld":"3x3x3 Múltiplos Cubos Vendado"
+
+    mostrarRanking('competicoesES')
   };
 
   return nomes[codigo] || codigo;
