@@ -16,26 +16,26 @@
     { "nome": "Pedro Henrique de Jesus Silva", "ouro": 8, "prata": 11, "bronze": 10 },
     { "nome": "Gustavo Dutra Santolin", "ouro": 0, "prata": 0, "bronze": 2 },
     { "nome": "Arthur Corrêa Lube Santos", "ouro": 0, "prata": 1, "bronze": 3 },
-    { "nome": "Arthur Braum Coelho Freitas", "ouro": 20, "prata": 21, "bronze": 20 },
+    { "nome": "Arthur Braum Coelho Freitas", "ouro": 21, "prata": 22, "bronze": 21 },
     { "nome": "Jonathan Pereira Vieira", "ouro": 5, "prata": 1, "bronze": 0 },
-    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 38, "prata": 34, "bronze": 23 },
+    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 43, "prata": 37, "bronze": 23 },
     { "nome": "Aldomario Ramos Netto", "ouro": 8, "prata": 5, "bronze": 3 },
-    { "nome": "Isaac Rafael Oliveira Soares", "ouro": 8, "prata": 10, "bronze": 10 },
+    { "nome": "Isaac Rafael Oliveira Soares", "ouro": 8, "prata": 11, "bronze": 10 },
     { "nome": "Diogo Antônio Nienke Batista", "ouro": 1, "prata": 3, "bronze": 2 },
     { "nome": "Paulo Sérgio Amorim Mônico", "ouro": 0, "prata": 2, "bronze": 3 },
     { "nome": "Luiz Henrique Gaspar Peters", "ouro": 4, "prata": 7, "bronze": 7 },
-    { "nome": "Maysa Santos Cozer", "ouro": 15, "prata": 10, "bronze": 10 },
-    { "nome": "João Felipe Ravani", "ouro": 2, "prata": 1, "bronze": 1 },
+    { "nome": "Maysa Santos Cozer", "ouro": 15, "prata": 10, "bronze": 13 },
+    { "nome": "João Felipe Ravani", "ouro": 2, "prata": 4, "bronze": 1 },
     { "nome": "Carlos Castello Grandi Ribeiro", "ouro": 0, "prata": 1, "bronze": 0 },
-    { "nome": "Marcos Albani Abreu", "ouro": 1, "prata": 1, "bronze": 0 },
+    { "nome": "Marcos Albani Abreu", "ouro": 1, "prata": 1, "bronze": 1 },
     { "nome": "Valfrido Torres Quintanilha Netto", "ouro": 0, "prata": 0, "bronze": 1 },
-    { "nome": "Victor Farles Cavalcante Alves", "ouro": 6, "prata": 11, "bronze": 5 },
+    { "nome": "Victor Farles Cavalcante Alves", "ouro": 6, "prata": 11, "bronze": 7 },
     { "nome": "João Pedro Barreri Kill", "ouro": 1, "prata": 1, "bronze": 2 },
     { "nome": "Thomás Lima Braga", "ouro": 0, "prata": 1, "bronze": 1 },
     { "nome": "Rykelmy Fernandes Serpa", "ouro": 1, "prata": 1, "bronze": 3 },
     { "nome": "Kauã Soares da Silva", "ouro": 1, "prata": 1, "bronze": 3 },
     { "nome": "Emanuel De Barbi Barcelos Caetano", "ouro": 1, "prata": 0, "bronze": 2 },
-    { "nome": "Kawã Franklin Rodrigues Ferreira", "ouro": 2, "prata": 0, "bronze": 1 },
+    { "nome": "Kawã Franklin Rodrigues Ferreira", "ouro": 2, "prata": 0, "bronze": 2 },
     { "nome": "Daniel Macedo Araújo dos Santos", "ouro": 0, "prata": 2, "bronze": 1 },
     { "nome": "Rodrigo Araujo do Carmo", "ouro": 0, "prata": 1, "bronze": 1 },
     { "nome": "Lucas Rossiman", "ouro": 0, "prata": 1, "bronze": 0 },
@@ -66,24 +66,24 @@
     { "nome": "Pedro Henrique de Jesus Silva", "ouro": 5, "prata": 4, "bronze": 3 },
     { "nome": "Gustavo Dutra Santolin", "ouro": 0, "prata": 0, "bronze": 2 },
     { "nome": "Arthur Corrêa Lube Santos", "ouro": 0, "prata": 1, "bronze": 3 },
-    { "nome": "Arthur Braum Coelho Freitas", "ouro": 18, "prata": 19, "bronze": 17 },
+    { "nome": "Arthur Braum Coelho Freitas", "ouro": 19, "prata": 20, "bronze": 18 },
     { "nome": "Edgar Nogueira Garcia Pinho", "ouro": 17, "prata": 34, "bronze": 29 },
     { "nome": "Jonathan Pereira Vieira", "ouro": 5, "prata": 1, "bronze": 0 },
-    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 37, "prata": 32, "bronze": 22 },
+    { "nome": "Rafael Hiroshi Eguchi Neves", "ouro": 42, "prata": 35, "bronze": 22 },
     { "nome": "Aldomario Ramos Netto", "ouro": 8, "prata": 5, "bronze": 3 },
-    { "nome": "Isaac Rafael Oliveira Soares", "ouro": 8, "prata": 10, "bronze": 10 },
+    { "nome": "Isaac Rafael Oliveira Soares", "ouro": 8, "prata": 11, "bronze": 10 },
     { "nome": "Diogo Antônio Nienke Batista", "ouro": 1, "prata": 3, "bronze": 2 },
     { "nome": "Paulo Sérgio Amorim Mônico", "ouro": 0, "prata": 2, "bronze": 3 },
     { "nome": "Miguel Duarte Teixeira Coelho", "ouro": 0, "prata": 2, "bronze": 4 },
     { "nome": "Luiz Henrique Gaspar Peters", "ouro": 4, "prata": 7, "bronze": 7 },
-    { "nome": "Maysa Santos Cozer", "ouro": 15, "prata": 10, "bronze": 10 },
+    { "nome": "Maysa Santos Cozer", "ouro": 15, "prata": 10, "bronze": 13 },
     { "nome": "Francisco Moraes Mandalozzo", "ouro": 29, "prata": 11, "bronze": 1 },
     { "nome": "Frederico Canal Gomes", "ouro": 12, "prata": 6, "bronze": 6 },
-    { "nome": "João Felipe Ravani", "ouro": 2, "prata": 1, "bronze": 1 },
+    { "nome": "João Felipe Ravani", "ouro": 2, "prata": 4, "bronze": 1 },
     { "nome": "Carlos Castello Grandi Ribeiro", "ouro": 0, "prata": 1, "bronze": 0 },
-    { "nome": "Marcos Albani Abreu", "ouro": 1, "prata": 1, "bronze": 0 },
+    { "nome": "Marcos Albani Abreu", "ouro": 1, "prata": 1, "bronze": 1 },
     { "nome": "Valfrido Torres Quintanilha Netto", "ouro": 0, "prata": 0, "bronze": 1 },
-    { "nome": "Victor Farles Cavalcante Alves", "ouro": 4, "prata": 9, "bronze": 5 },
+    { "nome": "Victor Farles Cavalcante Alves", "ouro": 4, "prata": 9, "bronze": 7 },
     { "nome": "João Pedro Barreri Kill", "ouro": 1, "prata": 1, "bronze": 2 },
     { "nome": "Thomás Lima Braga", "ouro": 0, "prata": 1, "bronze": 1 },
     { "nome": "Vicenzo Guerino Cecchini", "ouro": 4, "prata": 4, "bronze": 0 },
@@ -91,14 +91,14 @@
     { "nome": "Rykelmy Fernandes Serpa", "ouro": 1, "prata": 1, "bronze": 3 },
     { "nome": "Kauã Soares da Silva", "ouro": 1, "prata": 1, "bronze": 3 },
     { "nome": "Emanuel De Barbi Barcelos Caetano", "ouro": 1, "prata": 0, "bronze": 2 },
-    { "nome": "Kawã Franklin Rodrigues Ferreira", "ouro": 2, "prata": 0, "bronze": 1 },
+    { "nome": "Kawã Franklin Rodrigues Ferreira", "ouro": 2, "prata": 0, "bronze": 2 },
     { "nome": "Daniel Macedo Araújo dos Santos", "ouro": 0, "prata": 2, "bronze": 1 },
     { "nome": "Pedro Henrique Maciel Ceccopieri Belo (陈昊然)", "ouro": 3, "prata": 5, "bronze": 6 },
     { "nome": "Iuri Grangeiro Carvalho", "ouro": 1, "prata": 0, "bronze": 1 },
     { "nome": "Adriano Matoba Lipski", "ouro": 0, "prata": 4, "bronze": 0 },
     { "nome": "David Breno", "ouro": 0, "prata": 0, "bronze": 1 },
     { "nome": "Kaique de Oliveira Neves", "ouro": 1, "prata": 6, "bronze": 3 },
-    { "nome": "Mariana Castro", "ouro": 11, "prata": 10, "bronze": 7 },
+    { "nome": "Mariana Castro", "ouro": 14, "prata": 11, "bronze": 7 },
     { "nome": "Rodrigo Araujo do Carmo", "ouro": 0, "prata": 1, "bronze": 1 },
     { "nome": "Lucas Rossiman", "ouro": 0, "prata": 1, "bronze": 0 },
     { "nome": "Emanuele Trancoso", "ouro": 0, "prata": 2, "bronze": 0 },
@@ -162,10 +162,10 @@
     },
     {
       "tipo": "Average",
-      "resultado": "37.11",
-      "nome": "Maysa Santos Cozer",
-      "competicao": " III Colatina Open 2026",
-      "resolucoes": ["(32.94)","40.58","(41.84)","36.02","34.73"]
+      "resultado": "36.38",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": " Bigs & MBLD Vila Velha 2026",
+      "resolucoes": ["(31.08)","39.83","(41.80)","36.02","33.28"]
     }
   ],
 
@@ -189,17 +189,52 @@
    "666": [
     {
       "tipo": "Single",
-      "resultado": "2:17.16",
+      "resultado": "2:15.68",
       "nome": "Arthur Braum Coelho Freitas",
-      "competicao": "NC ao Cubo 2026",
-      "resolucoes": ["2:29.06","2:17.16","2:40.85"]
+      "competicao": "Bigs & MBLD Vila Velha 2026",
+      "resolucoes": ["2:22.48","2:22.59","2:15.68"]
     },
     {
       "tipo": "Average",
-      "resultado": "2:28.91",
-      "nome": "Rafael Hiroshi Eguchi Neves",
-      "competicao": "III Samuel Asafe Vila Velha 2026",
-      "resolucoes": ["2:39.90","2:17.37","2:23.72"]
+      "resultado": "2:20.25",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Bigs & MBLD Vila Velha 2026",
+      "resolucoes": ["2:22.48","2:22.59","2:15.68"]
+    }
+  ],
+
+   "777": [
+    {
+      "tipo": "Single",
+      "resultado": "3:36.47",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Bigs & MBLD Vila Velha 2026",
+      "resolucoes": ["3:52.18","4:14.87","3:36.47"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "3:54.51",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Bigs & MBLD Vila Velha 2026",
+      "resolucoes": ["3:52.18","4:14.87","3:36.47"]
+    }
+  ],
+
+  
+  "3bld":  [
+    {
+      "tipo": "Single",
+      "resultado": "22",
+      "nome": "Pedro Henrique de Jesus Silva",
+      "competicao": "Summer Kube Boulevard Vila Velha 2020",
+      "resolucoes": ["1:03.60","1:49.00","1:20.39"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "32.00",
+      "nome": "Pedro Henrique de Jesus Silva",
+      "competicao": "Summer Kube Boulevard Vila Velha 2020",
+      "resolucoes": ["1:03.60","1:49.00","1:20.39"]
     }
   ],
 
@@ -213,11 +248,97 @@
     },
     {
       "tipo": "Average",
-      "resultado": "34.00",
+      "resultado": "32.00",
       "nome": "Victor Farles Cavalcante Alves",
-      "competicao": "Sudestão ABRACM 2025",
-      "resolucoes": ["44","28","30"]
+      "competicao": "Desafio Brasileiro de Inverno FMC 2026",
+      "resolucoes": ["33","27","36"]
     }
-  ]
+  ],
+
+   "333oh":  [
+    {
+      "tipo": "Single",
+      "resultado": "13.26",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["(13.26)","(20.25)","17.71","17.96","15.76"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "15.72",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "NC ao Cubo 2026",
+      "resolucoes": ["15.02","15.50","16.63","(14.85)","(17.41)"]
+    }
+  ],
+
+   "clock":  [
+    {
+      "tipo": "Single",
+      "resultado": "6.19",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["7.05","7.10","7.63","(6.19)","(DNF)"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "7.26",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Sudestão ABRACM 2025",
+      "resolucoes": ["7.05","7.10","7.63","(6.19)","(DNF)"]
+    }
+  ],
+
+  "mega":  [
+    {
+      "tipo": "Single",
+      "resultado": "45.98",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "Niterói PUD Open 2026",
+      "resolucoes": ["(1:03.97)","59.54","54.86","(45.98)","49.98"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "54.07",
+      "nome": "Arthur Braum Coelho Freitas",
+      "competicao": "NC ao Cubo 2026",
+      "resolucoes": ["55.97","(59.45)","50.47","55.76","(49.48)"]
+    }
+  ],
+
+  "pyra":  [
+    {
+      "tipo": "Single",
+      "resultado": "2.04",
+      "nome": "Carlos Gabriel de Azevedo",
+      "competicao": "Canela Verde 2019",
+      "resolucoes": ["6.05","(2.04)","6.08","(6.53)","5.87"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "3.57",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "NC ao Cubo 2026",
+      "resolucoes": ["(4.58)","3.43","3.50","(2.55)","3.77"]
+    }
+  ],
+
+   "skewb":  [
+    {
+      "tipo": "Single",
+      "resultado": "2.47",
+      "nome": "Victor Farles Cavalcante Alves",
+      "competicao": "Campeonato Brasileiro de Cubo Mágico 2024",
+      "resolucoes": ["(2.47)","9.88","(13.44)","9.97","9.34"]
+    },
+    {
+      "tipo": "Average",
+      "resultado": "5.72",
+      "nome": "Rafael Hiroshi Eguchi Neves",
+      "competicao": "III Capixaba Challenge 2026",
+      "resolucoes": ["4.67",(10.84)","6.61","5.89","(4.46)"]
+    }
+  ],
+  
 }
 }
