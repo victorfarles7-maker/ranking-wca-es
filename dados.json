@@ -343,6 +343,66 @@
   
 },
   "competicoesES": [
+     {
+    "nome": "Summer Kube Vila Velha 2022",
+    "data": "5 - 6 fev, 2022",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2022"
+  },
+    {
+    "nome": "Summer Kube Boulevard Vila Velha 2020",
+    "data": "18 - 19 jan, 2020",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/SummerKubeVilaVelha2020"
+  },
+    {
+    "nome": "Vila Velha Quiet 2019",
+    "data": "15 dez, 2019",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/VilaVelhaQuiet2019"
+  },
+       {
+    "nome": "KubeKids Vila Velha 2019",
+    "data": "12 - 13 out, 2019",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/KubeKidsVilaVelha2019"
+  },
+     {
+    "nome": "Mestre Álvaro 2019",
+    "data": "27 - 28 jul, 2019",
+    "cidade": "Serra",
+    "link": "https://www.worldcubeassociation.org/competitions/MestreAlvaro2019"
+  },
+       {
+    "nome": "Canela Verde 2019",
+    "data": "27 - 28 abr, 2019",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/CanelaVerde2019"
+  },
+    {
+    "nome": "Cubo de Barro 2019",
+    "data": "26 - 27 jan, 2019",
+    "cidade": "Cariacica",
+    "link": "https://www.worldcubeassociation.org/competitions/CubodeBarro2019"
+  },
+    {
+    "nome": "Torneio Mestre Álvaro 2018",
+    "data": "28 - 29 jul, 2018",
+    "cidade": "Serra",
+    "link": "https://www.worldcubeassociation.org/competitions/TorneioMestreAlvaro2018"
+  },
+         {
+    "nome": "I Torneio de Cubo do Praia 2018",
+    "data": "26 - 27 mai, 2018",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/ITorneiodeCubodoPraia2018"
+  },
+     {
+    "nome": "Torneio Mestre Álvaro 2017",
+    "data": "22 - 23 abr, 2017",
+    "cidade": "Serra",
+    "link": "https://www.worldcubeassociation.org/competitions/TorneioMestreAlvaro2017"
+  },
         {
     "nome": "Marista de Cubo Mágico 2016",
     "data": "18 - 19 nov, 2016",
