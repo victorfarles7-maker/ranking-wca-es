@@ -178,7 +178,6 @@ function filtrar() {
 
   renderizar(filtrados, tipoAtual);
 }
-}
 
 
 function traduzirEvento(codigo) {
