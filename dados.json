@@ -344,6 +344,24 @@
 },
   "competicoesES": [
      {
+    "nome": "https://www.worldcubeassociation.org/competitions/KubeKidsVilaVelha2023",
+    "data": "8 out, 2023",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/KubeKidsVilaVelha2023"
+  },
+     {
+    "nome": "Capixaba Challenge 2023",
+    "data": "15 - 16 jul, 2023",
+    "cidade": "Serra",
+    "link": "https://www.worldcubeassociation.org/competitions/CapixabaChallenge2023"
+  },
+     {
+    "nome": "DNFools Boulevard 2023",
+    "data": "1 - 2 abr, 2023",
+    "cidade": "Vila Velha",
+    "link": "https://www.worldcubeassociation.org/competitions/DNFoolsBoulevard2023"
+  },
+     {
     "nome": "Summer Kube Vila Velha 2022",
     "data": "5 - 6 fev, 2022",
     "cidade": "Vila Velha",
