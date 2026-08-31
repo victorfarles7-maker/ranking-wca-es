@@ -156,16 +156,28 @@ listaDados.forEach((p, i) => {
 function filtrar() {
   const termo = document.getElementById("busca").value.toLowerCase();
 
-  // A busca só faz sentido nos rankings de pessoas
-  if (tipoAtual === "recordes" || tipoAtual === "competicoesES") {
+  // Busca por nome do campeonato
+  if (tipoAtual === "competicoesES") {
+    const filtrados = rankingAtual.filter(c =>
+      c.nome.toLowerCase().includes(termo)
+    );
+
+    renderizar(filtrados, tipoAtual);
     return;
   }
 
+  // Não faz busca nos recordes
+  if (tipoAtual === "recordes") {
+    return;
+  }
+
+  // Busca por nome da pessoa
   const filtrados = rankingAtual.filter(p =>
     p.nome.toLowerCase().includes(termo)
   );
 
   renderizar(filtrados, tipoAtual);
+}
 }
 
 
