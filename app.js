@@ -126,14 +126,30 @@ function renderizar(listaDados, tipo) {
 
   const lista = container.querySelector("ul");
 
-  listaDados.forEach((p, i) => {
-    const item = document.createElement("li");
+ let posicao = 1;
 
-    item.textContent =
-      `${i + 1}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
+listaDados.forEach((p, i) => {
 
-    lista.appendChild(item);
-  });
+  // Se as medalhas forem diferentes das da pessoa anterior,
+  // a posição passa a ser a posição real na lista
+  if (
+    i > 0 &&
+    (
+      p.ouro !== listaDados[i - 1].ouro ||
+      p.prata !== listaDados[i - 1].prata ||
+      p.bronze !== listaDados[i - 1].bronze
+    )
+  ) {
+    posicao = i + 1;
+  }
+
+  const item = document.createElement("li");
+
+  item.textContent =
+    `${posicao}. ${p.nome} 🥇${p.ouro} 🥈${p.prata} 🥉${p.bronze}`;
+
+  lista.appendChild(item);
+});
 }
 
 
